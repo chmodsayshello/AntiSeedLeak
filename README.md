@@ -1,2 +1,2 @@
 # AntiSeedLeak
-This simple plugin stops players form leaking the seed
+This simple plugin stops players form leaking the seed, seed leaking players get banned and none can see their message exept the owner
